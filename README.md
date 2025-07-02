@@ -92,7 +92,6 @@ Unlike centralized systems, LANVerse runs entirely on your local network—perfe
 
 Below are some screenshots of the LANVerse platform in action:
 
-<<<<<<< HEAD
 ### MainPage 
 ![Mainpage](screenshots/mainpage.png)
 
