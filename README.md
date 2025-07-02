@@ -92,8 +92,25 @@ Unlike centralized systems, LANVerse runs entirely on your local network—perfe
 
 Below are some screenshots of the LANVerse platform in action:
 
+<<<<<<< HEAD
 ### MainPage 
 ![Mainpage](screenshots/mainpage.png)
+=======
+### Dashboard 
+![Mainpage](sreenshots/mainpage.png)
+
+### Rooms
+![Rooms](sreenshots/room_discovery.png)
+
+### Private
+![Private](sreenshots/private.png)
+
+### Gaming Lounge
+![Gaming Lounge](sreenshots/gaming_lounge.png)
+
+### File Share
+![File Sharing](sreenshots/fileshare.png)
+>>>>>>> eaab4870dcf4b6bff7b9654a61523302e65dc04a
 
 ### Rooms
 ![Rooms](screenshots/p2p_roomdiscovery.png)
