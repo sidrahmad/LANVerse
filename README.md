@@ -111,7 +111,7 @@ Below are some screenshots of the LANVerse platform in action:
 ![Voice](screenshots/voice.png)
 
 ### DashBoard
-![DashBoard](screenshots/DashBoard.png)
+![dashBoard](screenshots/dashBoard.png)
 
 ---
 
